@@ -1,0 +1,18 @@
+{
+  "name": "ivan_seledkin_cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel --no-cahche index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.20.3"
+  },
+  "dependencies": {
+    "scss": "^0.2.4"
+  }
+}
